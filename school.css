@@ -1,0 +1,17 @@
+#contactWholeSec {
+    background-color: cornflowerblue;
+}
+#campusWholeSec {
+    background-color: cyan;
+}
+#newWholeSec {
+    background-color: firebrick;
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+#marqueeStyle {
+    background-color: darkorange;
+}
